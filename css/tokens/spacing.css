@@ -1,0 +1,18 @@
+:root{
+--space-1:4px;
+--space-2:8px;
+--space-3:12px;
+--space-4:16px;
+--space-5:24px;
+--space-6:32px;
+--space-7:48px;
+--space-8:64px;
+--space-9:96px;
+--radius-sm:2px;
+--radius-md:4px;
+--radius-pill:999px;
+--border-w:1.5px;
+--border-w-heavy:3px;
+--shadow-card:0 1px 0 var(--line-hairline);
+--shadow-lift:0 6px 16px -8px oklch(14% 0.012 55 / 0.35);
+}

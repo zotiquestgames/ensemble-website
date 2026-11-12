@@ -1,0 +1,7 @@
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--surface-page);color:var(--text-primary);font-family:var(--font-body);font-size:var(--size-body);line-height:var(--lh-body);margin:0;transition:background-color .15s ease,color .15s ease}
+a{color:var(--accent-yes);text-decoration-thickness:1.5px}
+a:hover{color:var(--accent-no)}
+h1,h2,h3{font-family:var(--font-heading);text-transform:uppercase;letter-spacing:var(--tracking-caps);line-height:var(--lh-heading);margin:0}
+img{max-width:100%;display:block}
